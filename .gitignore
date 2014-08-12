@@ -1,6 +1,5 @@
 *~
 dist/*
-README.*
 !README.Debian
 INSTALL.*
 .configure-stamp
